@@ -6567,12 +6567,12 @@ img.aligncenter {
 }
 /* Custom Elements Added
 ----------------------------------------------------------------------------------------*/
-.masthead h2 {
-  margin-bottom: 0;
-  font-size: 60px;
-  line-height: 1;
-  letter-spacing: -1px;
-  text-align: center;
-  margin-bottom: 9px;
+html {
+  background: #233c38 url('http://goo.gl/5wJBu') 50% 50%;
+  background-attachment: fixed;
+  background-size: 100% auto;
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #fff;
 }
-/* Enter your custom styles here */
